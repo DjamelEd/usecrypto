@@ -12,8 +12,20 @@
     "crypto": ["BTC", "ETH", "LTC"]
   },
   {
-    "title": "Shopify",
-    "link": "https://www.shopify.com",
+    "title": "Belovedshirts",
+    "link": "https://www.belovedshirts.com/",
+    "category": "E-commerce",
+    "crypto": ["BTC"]
+  },
+  {
+    "title": "Enclavemfg",
+    "link": "https://www.enclavemfg.com//",
+    "category": "E-commerce",
+    "crypto": ["BTC"]
+  },
+  {
+    "title": "Tortuga",
+    "link": "https://www.tortugabackpacks.com/",
     "category": "E-commerce",
     "crypto": ["BTC"]
   },
