@@ -10,5 +10,23 @@
     "link": "https://www.bitrefill.com",
     "category": "",
     "crypto": ["BTC", "ETH", "LTC"]
+  },
+  {
+    "title": "Shopify",
+    "link": "https://www.shopify.com",
+    "category": "E-commerce",
+    "crypto": ["BTC"]
+  },
+{
+    "title": "Newegg",
+    "link": "https://www.newegg.com",
+    "category": "Electronics",
+    "crypto": ["BTC"]
+  },
+{
+    "title": "Travala",
+    "link": "https://www.travala.com",
+    "category": "",
+    "crypto": ["BTC", "XRP", "BNB"]
   }
 ]
