@@ -40,7 +40,8 @@
     "link": "https://www.travala.com",
     "category": "",
     "crypto": ["BTC", "XRP", "BNB"]
-
+},
+  {
     "title": "Alagoria",
     "link": "https://www.alagoria.com",
     "categories": ["Shopping"],
