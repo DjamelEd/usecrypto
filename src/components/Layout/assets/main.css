@@ -117,6 +117,9 @@ select {
 }
 
 .list .entry {
+  display: block;
+  text-decoration: none;
+  color: rgb(33, 43, 54);
   padding: 1rem;
   transition: all 100ms ease 0s;
 }
@@ -129,6 +132,25 @@ select {
   box-shadow: rgba(0, 0, 0, 0.1) 0px 12px 8px;
   transform: translateY(-4px);
   cursor: pointer;
+}
+
+.list-header {
+  display: flex;
+  font-size: 18px;
+  padding: 1rem;
+  border-bottom: solid 2px #4149dd;
+}
+
+.react-select-container {
+  width: 100%;
+}
+
+.react-select-container:first-child {
+  margin-right: 1rem;
+}
+
+.react-select__control--is-focused {
+  border-color: #8755f1 !important;
 }
 
 .wrapper-error {

@@ -11,13 +11,14 @@
     "react": "^16.10.2",
     "react-dom": "^16.10.2",
     "react-helmet": "^5.2.1",
-    "typeface-inter": "^3.10.0"
+    "react-select": "^3.0.8"
   },
   "devDependencies": {
     "prettier": "^1.18.2"
   },
   "keywords": [
-    "crypto", "gatsby"
+    "crypto",
+    "gatsby"
   ],
   "license": "MIT",
   "scripts": {

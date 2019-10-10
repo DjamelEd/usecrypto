@@ -2,30 +2,30 @@
   {
     "title": "Gamesplanet",
     "link": "https://gamesplanet.com",
-    "category": "Games",
+    "categories": ["Games"],
     "crypto": ["BTC"]
   },
   {
     "title": "Bitrefill",
     "link": "https://www.bitrefill.com",
-    "category": "",
+    "categories": ["Gift Cards"],
     "crypto": ["BTC", "ETH", "LTC"]
   },
   {
     "title": "Belovedshirts",
-    "link": "https://www.belovedshirts.com/",
+    "link": "https://www.belovedshirts.com",
     "category": "E-commerce",
     "crypto": ["BTC"]
   },
   {
     "title": "Enclavemfg",
-    "link": "https://www.enclavemfg.com//",
+    "link": "https://www.enclavemfg.com",
     "category": "E-commerce",
     "crypto": ["BTC"]
   },
   {
     "title": "Tortuga",
-    "link": "https://www.tortugabackpacks.com/",
+    "link": "https://www.tortugabackpacks.com",
     "category": "E-commerce",
     "crypto": ["BTC"]
   },
@@ -40,5 +40,35 @@
     "link": "https://www.travala.com",
     "category": "",
     "crypto": ["BTC", "XRP", "BNB"]
+
+    "title": "Alagoria",
+    "link": "https://www.alagoria.com",
+    "categories": ["Shopping"],
+    "crypto": ["BTC", "BCH", "LTC", "ZEC"]
+  },
+  {
+    "title": "Overstock",
+    "link": "https://www.overstock.com",
+    "categories": ["Shopping"],
+    "crypto": ["BTC", "ETC", "DASH", "NIM", "XRM", "LTC", "NEM"]
+  },
+  {
+    "title": "Laptop Power Bank",
+    "link": "https://www.laptoppowerbank.com",
+    "categories": ["Shopping", "Electronics"],
+    "crypto": [
+      "BTC",
+      "XRM",
+      "LTC",
+      "SBD",
+      "XVG",
+      "DGB",
+      "DOGE",
+      "SMART",
+      "NEO",
+      "VTC",
+      "UBQ"
+    ]
+
   }
 ]
