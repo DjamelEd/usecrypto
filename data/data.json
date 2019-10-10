@@ -14,31 +14,31 @@
   {
     "title": "Belovedshirts",
     "link": "https://www.belovedshirts.com",
-    "category": "E-commerce",
+    "categories": ["E-commerce"],
     "crypto": ["BTC"]
   },
   {
     "title": "Enclavemfg",
     "link": "https://www.enclavemfg.com",
-    "category": "E-commerce",
+    "categories": ["E-commerce"],
     "crypto": ["BTC"]
   },
   {
     "title": "Tortuga",
     "link": "https://www.tortugabackpacks.com",
-    "category": "E-commerce",
+    "categories": ["E-commerce"],
     "crypto": ["BTC"]
   },
 {
     "title": "Newegg",
     "link": "https://www.newegg.com",
-    "category": "Electronics",
+    "categories": ["Electronics"],
     "crypto": ["BTC"]
   },
 {
     "title": "Travala",
     "link": "https://www.travala.com",
-    "category": "",
+    "categories": [],
     "crypto": ["BTC", "XRP", "BNB"]
 },
   {
