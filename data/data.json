@@ -38,7 +38,7 @@
 {
     "title": "Travala",
     "link": "https://www.travala.com",
-    "categories": [],
+    "categories": ["Booking"],
     "crypto": ["BTC", "XRP", "BNB"]
 },
   {
